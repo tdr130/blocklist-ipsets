@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11777,
+		"ips": 11998,
 		"common": 1
 	},
 	{
@@ -86,7 +86,7 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16548,
+		"ips": 16539,
 		"common": 1
 	},
 	{
@@ -146,7 +146,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 13854,
+		"ips": 13857,
 		"common": 1
 	},
 	{
@@ -158,13 +158,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47284,
+		"ips": 47287,
 		"common": 11
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40117,
+		"ips": 40111,
 		"common": 5
 	},
 	{
@@ -176,13 +176,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9585949,
+		"ips": 9586162,
 		"common": 4
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34329,
+		"ips": 34332,
 		"common": 11
 	},
 	{
@@ -270,6 +270,12 @@
 		"common": 1
 	},
 	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 39207,
+		"common": 1
+	},
+	{
 		"name": "nullsecure",
 		"category": "reputation",
 		"ips": 29439,
@@ -290,7 +296,7 @@
 	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 124837,
+		"ips": 124844,
 		"common": 14
 	},
 	{
@@ -302,7 +308,7 @@
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 6399,
+		"ips": 6403,
 		"common": 1
 	},
 	{
@@ -386,7 +392,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 3751,
+		"ips": 3757,
 		"common": 1
 	},
 	{
