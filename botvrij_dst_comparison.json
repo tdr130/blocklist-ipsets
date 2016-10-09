@@ -66,6 +66,18 @@
 		"common": 4
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 29073,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 4813,
+		"common": 1
+	},
+	{
 		"name": "blueliv_crimeserver_last_1d",
 		"category": "attacks",
 		"ips": 4231,
@@ -128,19 +140,19 @@
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 7882,
+		"ips": 7896,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 121898,
+		"ips": 121823,
 		"common": 4
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 21064,
+		"ips": 21055,
 		"common": 2
 	},
 	{
@@ -152,19 +164,19 @@
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5229,
+		"ips": 5243,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 135372,
+		"ips": 135243,
 		"common": 6
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 12381,
+		"ips": 12368,
 		"common": 2
 	},
 	{
@@ -236,19 +248,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12477,
+		"ips": 12490,
 		"common": 1
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 272080,
+		"ips": 271997,
 		"common": 7
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47334,
+		"ips": 47338,
 		"common": 101
 	},
 	{
@@ -256,6 +268,12 @@
 		"category": "attacks",
 		"ips": 663819566,
 		"common": 9
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 39838,
+		"common": 1
 	},
 	{
 		"name": "firehol_level3",
@@ -416,7 +434,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 2598,
+		"ips": 2596,
 		"common": 8
 	},
 	{
