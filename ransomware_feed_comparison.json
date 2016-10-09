@@ -27,7 +27,7 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 269,
-		"common": 18
+		"common": 19
 	},
 	{
 		"name": "bambenek_dircrypt",
@@ -45,7 +45,7 @@
 		"name": "bambenek_simda",
 		"category": "malware",
 		"ips": 113,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -98,13 +98,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32750,
+		"ips": 32809,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9508,
+		"ips": 9509,
 		"common": 1
 	},
 	{
@@ -116,50 +116,50 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9986,
+		"ips": 9973,
 		"common": 42
 	},
 	{
 		"name": "blueliv_crimeserver_last",
 		"category": "attacks",
 		"ips": 2611,
-		"common": 45
+		"common": 44
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
 		"category": "attacks",
 		"ips": 4231,
-		"common": 132
+		"common": 131
 	},
 	{
 		"name": "blueliv_crimeserver_last_2d",
 		"category": "attacks",
 		"ips": 6654,
-		"common": 168
+		"common": 167
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
 		"category": "attacks",
 		"ips": 17806,
-		"common": 315
+		"common": 314
 	},
 	{
 		"name": "blueliv_crimeserver_last_7d",
 		"category": "attacks",
 		"ips": 11674,
-		"common": 240
+		"common": 239
 	},
 	{
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 47086,
-		"common": 453
+		"common": 452
 	},
 	{
 		"name": "blueliv_crimeserver_recent",
 		"category": "attacks",
 		"ips": 1488,
-		"common": 19
+		"common": 18
 	},
 	{
 		"name": "bm_tor",
@@ -207,42 +207,42 @@
 		"name": "cleanmx_phishing",
 		"category": "spam",
 		"ips": 4519,
-		"common": 91
+		"common": 90
 	},
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
 		"ips": 12190,
-		"common": 170
+		"common": 169
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 125844,
+		"ips": 125861,
 		"common": 13
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 20812,
+		"ips": 20847,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 37303,
+		"ips": 37367,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 11201,
+		"ips": 11241,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 140001,
+		"ips": 139932,
 		"common": 12
 	},
 	{
@@ -356,31 +356,31 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 13629,
+		"ips": 13711,
 		"common": 1
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 276628,
+		"ips": 276651,
 		"common": 14
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47192,
+		"ips": 47207,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 663825963,
-		"common": 221
+		"common": 222
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42414,
+		"ips": 42471,
 		"common": 1
 	},
 	{
@@ -392,14 +392,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584161,
-		"common": 248
+		"ips": 9584152,
+		"common": 247
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50939468,
-		"common": 1984
+		"common": 1983
 	},
 	{
 		"name": "fullbogons",
@@ -435,7 +435,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 20666,
-		"common": 1812
+		"common": 1811
 	},
 	{
 		"name": "hphosts_exp",
@@ -483,7 +483,7 @@
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 16738,
-		"common": 274
+		"common": 273
 	},
 	{
 		"name": "hphosts_wrz",
@@ -501,7 +501,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 188
+		"common": 189
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
@@ -662,7 +662,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 35538,
+		"ips": 35798,
 		"common": 2
 	},
 	{
@@ -681,7 +681,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50717576,
-		"common": 373
+		"common": 372
 	},
 	{
 		"name": "ransomware_locky_c2",
