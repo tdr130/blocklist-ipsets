@@ -128,7 +128,7 @@
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
-		"ips": 1011,
+		"ips": 1013,
 		"common": 1
 	},
 	{
@@ -224,7 +224,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 2943,
+		"ips": 2938,
 		"common": 1
 	},
 	{
@@ -350,7 +350,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47344,
+		"ips": 47334,
 		"common": 4417
 	},
 	{
@@ -368,7 +368,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 160346,
+		"ips": 160348,
 		"common": 142
 	},
 	{
@@ -380,7 +380,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34356,
+		"ips": 34347,
 		"common": 4429
 	},
 	{
@@ -921,24 +921,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2636,
+		"ips": 2598,
 		"common": 100
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 19904,
+		"ips": 19897,
 		"common": 272
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 7254,
+		"ips": 7255,
 		"common": 232
 	},
 	{
@@ -1010,13 +1010,13 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 390,
-		"common": 62
+		"ips": 375,
+		"common": 60
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3872,
+		"ips": 3870,
 		"common": 235
 	},
 	{
@@ -1088,7 +1088,7 @@
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1441,
+		"ips": 1440,
 		"common": 1
 	},
 	{

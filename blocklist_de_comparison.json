@@ -236,8 +236,8 @@
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
-		"ips": 1011,
-		"common": 265
+		"ips": 1013,
+		"common": 269
 	},
 	{
 		"name": "ciarmy",
@@ -368,13 +368,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 2943,
-		"common": 855
+		"ips": 2938,
+		"common": 856
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1416,
+		"ips": 1411,
 		"common": 544
 	},
 	{
@@ -566,7 +566,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47344,
+		"ips": 47334,
 		"common": 923
 	},
 	{
@@ -584,8 +584,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 160346,
-		"common": 1442
+		"ips": 160348,
+		"common": 1445
 	},
 	{
 		"name": "firehol_level4",
@@ -596,7 +596,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34356,
+		"ips": 34347,
 		"common": 921
 	},
 	{
@@ -1214,7 +1214,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 2597,
+		"ips": 2598,
 		"common": 1
 	},
 	{
@@ -1304,19 +1304,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2636,
-		"common": 418
+		"ips": 2598,
+		"common": 413
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 19904,
+		"ips": 19897,
 		"common": 650
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 7254,
+		"ips": 7255,
 		"common": 592
 	},
 	{
@@ -1400,13 +1400,13 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 390,
-		"common": 37
+		"ips": 375,
+		"common": 36
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3872,
+		"ips": 3870,
 		"common": 86
 	},
 	{
@@ -1484,13 +1484,13 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 1022,
+		"ips": 1023,
 		"common": 2
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1077,
+		"ips": 1079,
 		"common": 2
 	},
 	{
@@ -1502,7 +1502,7 @@
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1441,
+		"ips": 1440,
 		"common": 3
 	},
 	{
