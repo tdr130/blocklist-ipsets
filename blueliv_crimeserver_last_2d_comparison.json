@@ -44,7 +44,7 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 271,
+		"ips": 267,
 		"common": 29
 	},
 	{
@@ -134,25 +134,37 @@
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5538,
+		"ips": 5530,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22458,
+		"ips": 22451,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 9659,
+		"ips": 9657,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 29388,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 5111,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13462,
+		"ips": 13432,
 		"common": 66
 	},
 	{
@@ -440,20 +452,20 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47338,
+		"ips": 47229,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 663819566,
+		"ips": 663819562,
 		"common": 40
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39838,
-		"common": 9
+		"ips": 40184,
+		"common": 10
 	},
 	{
 		"name": "firehol_level3",
@@ -464,7 +476,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587393,
+		"ips": 9587362,
 		"common": 832
 	},
 	{
@@ -494,7 +506,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1430,
+		"ips": 1464,
 		"common": 1
 	},
 	{
@@ -782,8 +794,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36073,
-		"common": 3
+		"ips": 35963,
+		"common": 4
 	},
 	{
 		"name": "nullsecure",
@@ -854,7 +866,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 2596,
+		"ips": 2598,
 		"common": 169
 	},
 	{
