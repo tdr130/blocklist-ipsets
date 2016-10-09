@@ -122,49 +122,49 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29761,
-		"common": 641
+		"ips": 29830,
+		"common": 651
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9418,
+		"ips": 9421,
 		"common": 8
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 160,
+		"ips": 162,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1115,
-		"common": 4
+		"ips": 1109,
+		"common": 3
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 19406,
+		"ips": 19431,
 		"common": 17
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 118,
+		"ips": 117,
 		"common": 7
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 5527,
-		"common": 623
+		"ips": 5564,
+		"common": 633
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 190,
+		"ips": 189,
 		"common": 48
 	},
 	{
@@ -338,13 +338,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 2938,
+		"ips": 2944,
 		"common": 188
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1411,
+		"ips": 1415,
 		"common": 100
 	},
 	{
@@ -482,7 +482,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47296,
+		"ips": 47276,
 		"common": 6
 	},
 	{
@@ -494,8 +494,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40507,
-		"common": 782
+		"ips": 40577,
+		"common": 792
 	},
 	{
 		"name": "firehol_level3",
@@ -512,7 +512,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34381,
+		"ips": 34361,
 		"common": 5
 	},
 	{
@@ -1052,19 +1052,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2611,
+		"ips": 2608,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 19903,
+		"ips": 19881,
 		"common": 2
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 7259,
+		"ips": 7244,
 		"common": 2
 	},
 	{
@@ -1160,7 +1160,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 3817,
+		"ips": 3846,
 		"common": 1
 	},
 	{

@@ -3,42 +3,42 @@
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 1674,
-		"common": 35
+		"common": 36
 	},
 	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 12951,
-		"common": 59
+		"common": 60
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 5398,
-		"common": 50
+		"common": 51
 	},
 	{
 		"name": "bi_http_2_30d",
 		"category": "attacks",
 		"ips": 701,
-		"common": 59
+		"common": 60
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29761,
-		"common": 160
+		"ips": 29830,
+		"common": 162
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9418,
-		"common": 160
+		"ips": 9421,
+		"common": 162
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 190,
+		"ips": 189,
 		"common": 5
 	},
 	{
@@ -212,7 +212,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47296,
+		"ips": 47276,
 		"common": 2
 	},
 	{
@@ -224,8 +224,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40507,
-		"common": 160
+		"ips": 40577,
+		"common": 162
 	},
 	{
 		"name": "firehol_level3",
@@ -242,7 +242,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34381,
+		"ips": 34361,
 		"common": 2
 	},
 	{
@@ -321,7 +321,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "iblocklist_level3",
@@ -462,21 +462,27 @@
 		"common": 1
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2611,
+		"ips": 2608,
 		"common": 2
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 19903,
+		"ips": 19881,
 		"common": 2
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 7259,
+		"ips": 7244,
 		"common": 2
 	},
 	{
@@ -513,7 +519,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "spamhaus_drop",
@@ -536,7 +542,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 3817,
+		"ips": 3846,
 		"common": 7
 	},
 	{
