@@ -146,14 +146,14 @@
 	{
 		"name": "bambenek_necurs",
 		"category": "malware",
-		"ips": 4,
+		"ips": 5,
 		"common": 4
 	},
 	{
 		"name": "bambenek_pykspa",
 		"category": "malware",
 		"ips": 11,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "bambenek_ramnit",
@@ -164,8 +164,8 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 113,
-		"common": 113
+		"ips": 114,
+		"common": 114
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -356,7 +356,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12923,
+		"ips": 12947,
 		"common": 152
 	},
 	{
@@ -920,7 +920,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587008,
+		"ips": 9587024,
 		"common": 6142304
 	},
 	{
@@ -1616,13 +1616,13 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 7133,
+		"ips": 7134,
 		"common": 1
 	},
 	{
 		"name": "sorbs_anonymizers",
 		"category": "spam",
-		"ips": 607004,
+		"ips": 607005,
 		"common": 178
 	},
 	{
@@ -1634,8 +1634,8 @@
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 90830,
-		"common": 331
+		"ips": 91032,
+		"common": 343
 	},
 	{
 		"name": "sorbs_noserver",
@@ -1646,7 +1646,7 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 1806826,
+		"ips": 1805081,
 		"common": 3117
 	},
 	{
@@ -1754,8 +1754,8 @@
 	{
 		"name": "stopforumspam_7d",
 		"category": "abuse",
-		"ips": 19407,
-		"common": 498
+		"ips": 19044,
+		"common": 462
 	},
 	{
 		"name": "stopforumspam_90d",
