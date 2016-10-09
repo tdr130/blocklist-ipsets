@@ -266,8 +266,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47340,
-		"common": 6950
+		"ips": 47348,
+		"common": 6960
 	},
 	{
 		"name": "firehol_level1",
@@ -296,8 +296,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34363,
-		"common": 6959
+		"ips": 34371,
+		"common": 6969
 	},
 	{
 		"name": "firehol_webserver",
@@ -345,7 +345,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 245
+		"common": 246
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -489,7 +489,7 @@
 		"name": "iw_spamlist",
 		"category": "spam",
 		"ips": 6582,
-		"common": 92
+		"common": 93
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -507,7 +507,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 3615951,
-		"common": 1931
+		"common": 1932
 	},
 	{
 		"name": "maxmind_proxy_fraud",
@@ -524,8 +524,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38028,
-		"common": 559
+		"ips": 37943,
+		"common": 566
 	},
 	{
 		"name": "nullsecure",
@@ -812,14 +812,14 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2562,
-		"common": 2562
+		"ips": 2575,
+		"common": 2575
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 19790,
-		"common": 7105
+		"ips": 19794,
+		"common": 7111
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -831,25 +831,25 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373088326,
-		"common": 2507
+		"common": 2509
 	},
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 90576,
-		"common": 1587
+		"common": 1589
 	},
 	{
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 20925030,
-		"common": 199
+		"common": 200
 	},
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1807164,
-		"common": 2661
+		"common": 2664
 	},
 	{
 		"name": "sorbs_web",
