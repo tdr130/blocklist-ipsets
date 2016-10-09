@@ -68,13 +68,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32338,
-		"common": 256
+		"ips": 32220,
+		"common": 255
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9465,
+		"ips": 9456,
 		"common": 16
 	},
 	{
@@ -92,14 +92,14 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 1598,
+		"ips": 1589,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 21326,
-		"common": 40
+		"ips": 21253,
+		"common": 39
 	},
 	{
 		"name": "blocklist_de_sip",
@@ -110,7 +110,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 6135,
+		"ips": 6116,
 		"common": 4
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6955,
+		"ips": 6984,
 		"common": 77
 	},
 	{
@@ -362,8 +362,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47245,
-		"common": 322
+		"ips": 47211,
+		"common": 323
 	},
 	{
 		"name": "firehol_level1",
@@ -374,8 +374,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41984,
-		"common": 265
+		"ips": 41867,
+		"common": 264
 	},
 	{
 		"name": "firehol_level3",
@@ -392,8 +392,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34314,
-		"common": 290
+		"ips": 34315,
+		"common": 291
 	},
 	{
 		"name": "firehol_webserver",
@@ -626,8 +626,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37035,
-		"common": 44
+		"ips": 37557,
+		"common": 45
 	},
 	{
 		"name": "nullsecure",
@@ -843,25 +843,25 @@
 		"name": "proxyspy",
 		"category": "anonymizers",
 		"ips": 298,
-		"common": 16
+		"common": 20
 	},
 	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 1020,
-		"common": 51
+		"ips": 990,
+		"common": 54
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 6353,
-		"common": 74
+		"ips": 6357,
+		"common": 76
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 2666,
-		"common": 67
+		"ips": 2668,
+		"common": 69
 	},
 	{
 		"name": "proxz",
