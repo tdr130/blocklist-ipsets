@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12969,
+		"ips": 12983,
 		"common": 22
 	},
 	{
@@ -302,7 +302,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47348,
+		"ips": 47347,
 		"common": 104
 	},
 	{
@@ -326,13 +326,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586987,
+		"ips": 9587007,
 		"common": 59
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34366,
+		"ips": 34365,
 		"common": 103
 	},
 	{
@@ -530,8 +530,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37195,
-		"common": 1272
+		"ips": 37246,
+		"common": 1254
 	},
 	{
 		"name": "nullsecure",
@@ -696,15 +696,21 @@
 		"common": 3
 	},
 	{
+		"name": "proxyspy",
+		"category": "anonymizers",
+		"ips": 299,
+		"common": 1
+	},
+	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 1110,
+		"ips": 1096,
 		"common": 2
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 6418,
+		"ips": 6420,
 		"common": 5
 	},
 	{
