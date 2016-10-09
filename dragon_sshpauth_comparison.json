@@ -50,14 +50,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29909,
+		"ips": 29767,
 		"common": 103
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 9398,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 5317,
-		"common": 103
+		"ips": 5331,
+		"common": 102
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -68,7 +74,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12983,
+		"ips": 12950,
 		"common": 6
 	},
 	{
@@ -219,7 +225,7 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 21
+		"common": 20
 	},
 	{
 		"name": "dshield_1d",
@@ -285,12 +291,12 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 663819565,
-		"common": 27
+		"common": 26
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40393,
+		"ips": 40254,
 		"common": 120
 	},
 	{
@@ -302,7 +308,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587003,
+		"ips": 9586971,
 		"common": 115
 	},
 	{
@@ -530,7 +536,7 @@
 	{
 		"name": "sorbs_anonymizers",
 		"category": "spam",
-		"ips": 607015,
+		"ips": 607019,
 		"common": 3
 	},
 	{
@@ -548,7 +554,7 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 1800688,
+		"ips": 1798336,
 		"common": 6
 	},
 	{
