@@ -98,20 +98,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29388,
-		"common": 5
+		"ips": 29761,
+		"common": 6
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9419,
+		"ips": 9418,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 5111,
-		"common": 2
+		"ips": 5527,
+		"common": 3
 	},
 	{
 		"name": "bruteforceblocker",
@@ -236,8 +236,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40184,
-		"common": 9
+		"ips": 40511,
+		"common": 10
 	},
 	{
 		"name": "firehol_level3",
@@ -340,6 +340,12 @@
 		"category": "malware",
 		"ips": 59614,
 		"common": 8
+	},
+	{
+		"name": "nt_ssh_7d",
+		"category": "attacks",
+		"ips": 272,
+		"common": 1
 	},
 	{
 		"name": "nullsecure",
