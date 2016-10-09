@@ -93,7 +93,7 @@
 		"name": "bbcan177_ms3",
 		"category": "malware",
 		"ips": 30151694,
-		"common": 222
+		"common": 221
 	},
 	{
 		"name": "bds_atif",
@@ -104,20 +104,20 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1545,
-		"common": 1163
+		"ips": 1529,
+		"common": 1148
 	},
 	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 12868,
-		"common": 3687
+		"common": 3688
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 5350,
-		"common": 2399
+		"common": 2400
 	},
 	{
 		"name": "bi_bruteforce_2_30d",
@@ -135,7 +135,7 @@
 		"name": "bi_http_2_30d",
 		"category": "attacks",
 		"ips": 696,
-		"common": 88
+		"common": 89
 	},
 	{
 		"name": "bi_mail_2_30d",
@@ -267,7 +267,7 @@
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 9973,
-		"common": 490
+		"common": 492
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -320,25 +320,25 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 15,
-		"common": 3
+		"ips": 28,
+		"common": 17
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
 		"ips": 719,
-		"common": 166
+		"common": 172
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16556,
-		"common": 885
+		"ips": 16551,
+		"common": 886
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4831,
+		"ips": 4821,
 		"common": 531
 	},
 	{
@@ -375,7 +375,7 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 3157,
-		"common": 347
+		"common": 348
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -477,7 +477,7 @@
 		"name": "cruzit_web_attacks",
 		"category": "attacks",
 		"ips": 6261,
-		"common": 59
+		"common": 58
 	},
 	{
 		"name": "cybercrime",
@@ -686,13 +686,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 13711,
+		"ips": 13713,
 		"common": 1125
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 276651,
+		"ips": 276653,
 		"common": 3321
 	},
 	{
@@ -711,13 +711,13 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 161043,
-		"common": 10354
+		"common": 10355
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584152,
-		"common": 2636
+		"ips": 9584147,
+		"common": 2638
 	},
 	{
 		"name": "firehol_proxies",
@@ -752,8 +752,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2040,
-		"common": 2040
+		"ips": 2039,
+		"common": 2039
 	},
 	{
 		"name": "haley_ssh",
@@ -825,7 +825,7 @@
 		"name": "iblocklist_cruzit_web_attacks",
 		"category": "attacks",
 		"ips": 6253,
-		"common": 59
+		"common": 58
 	},
 	{
 		"name": "iblocklist_dshield",
@@ -921,7 +921,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691761,
-		"common": 2087
+		"common": 2086
 	},
 	{
 		"name": "iblocklist_level2",
@@ -933,7 +933,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 3960
+		"common": 3959
 	},
 	{
 		"name": "iblocklist_malc0de",
@@ -969,7 +969,7 @@
 		"name": "iblocklist_pedophiles",
 		"category": "reputation",
 		"ips": 873783,
-		"common": 345
+		"common": 346
 	},
 	{
 		"name": "iblocklist_rangetest",
@@ -1191,25 +1191,25 @@
 		"name": "php_commenters",
 		"category": "spam",
 		"ips": 50,
-		"common": 17
+		"common": 22
 	},
 	{
 		"name": "php_commenters_1d",
 		"category": "spam",
-		"ips": 50,
-		"common": 17
+		"ips": 92,
+		"common": 32
 	},
 	{
 		"name": "php_commenters_30d",
 		"category": "spam",
-		"ips": 814,
-		"common": 147
+		"ips": 818,
+		"common": 149
 	},
 	{
 		"name": "php_commenters_7d",
 		"category": "spam",
 		"ips": 269,
-		"common": 68
+		"common": 70
 	},
 	{
 		"name": "php_dictionary",
@@ -1503,7 +1503,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373088326,
-		"common": 4605
+		"common": 4603
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -1533,7 +1533,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6204165,
-		"common": 2259
+		"common": 2260
 	},
 	{
 		"name": "sorbs_zombie",
@@ -1545,7 +1545,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 3282
+		"common": 3283
 	},
 	{
 		"name": "sp_atma",

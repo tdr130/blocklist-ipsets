@@ -116,7 +116,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1545,
+		"ips": 1529,
 		"common": 32
 	},
 	{
@@ -294,21 +294,27 @@
 		"common": 3
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 28,
+		"common": 2
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
 		"ips": 719,
-		"common": 20
+		"common": 21
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16556,
+		"ips": 16551,
 		"common": 468
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4831,
+		"ips": 4821,
 		"common": 145
 	},
 	{
@@ -644,13 +650,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 13711,
-		"common": 715
+		"ips": 13713,
+		"common": 716
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 276651,
+		"ips": 276653,
 		"common": 8210
 	},
 	{
@@ -668,7 +674,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42471,
+		"ips": 42469,
 		"common": 5419
 	},
 	{
@@ -680,7 +686,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584152,
+		"ips": 9584147,
 		"common": 5543119
 	},
 	{
@@ -716,8 +722,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2040,
-		"common": 22
+		"ips": 2039,
+		"common": 21
 	},
 	{
 		"name": "haley_ssh",
@@ -1119,25 +1125,25 @@
 		"name": "php_commenters",
 		"category": "spam",
 		"ips": 50,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "php_commenters_1d",
 		"category": "spam",
-		"ips": 50,
-		"common": 1
+		"ips": 92,
+		"common": 3
 	},
 	{
 		"name": "php_commenters_30d",
 		"category": "spam",
-		"ips": 814,
-		"common": 20
+		"ips": 818,
+		"common": 21
 	},
 	{
 		"name": "php_commenters_7d",
 		"category": "spam",
 		"ips": 269,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "php_dictionary",
