@@ -74,14 +74,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587065,
+		"ips": 9587064,
 		"common": 3
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50939624,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "hphosts_ats",
@@ -138,6 +138,12 @@
 		"common": 3
 	},
 	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 666661539,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762683313,
@@ -177,7 +183,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50717576,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "ransomware_feed",
