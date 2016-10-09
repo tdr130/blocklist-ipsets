@@ -74,19 +74,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31091,
-		"common": 862
+		"ips": 31062,
+		"common": 865
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9421,
-		"common": 24
+		"ips": 9425,
+		"common": 25
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 2220,
+		"ips": 2215,
 		"common": 774
 	},
 	{
@@ -96,21 +96,27 @@
 		"common": 9
 	},
 	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 1660,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1279,
+		"ips": 1290,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 21103,
-		"common": 54
+		"ips": 21057,
+		"common": 55
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 5138,
+		"ips": 5149,
 		"common": 15
 	},
 	{
@@ -890,8 +896,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38416,
-		"common": 56
+		"ips": 38311,
+		"common": 54
 	},
 	{
 		"name": "nullsecure",
@@ -1154,7 +1160,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 2595,
+		"ips": 2596,
 		"common": 1
 	},
 	{
