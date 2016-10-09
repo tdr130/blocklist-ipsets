@@ -854,8 +854,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40511,
-		"common": 6432
+		"ips": 40515,
+		"common": 6433
 	},
 	{
 		"name": "firehol_level3",
@@ -1779,6 +1779,12 @@
 		"name": "urlvir",
 		"category": "malware",
 		"ips": 63,
+		"common": 1
+	},
+	{
+		"name": "virbl",
+		"category": "spam",
+		"ips": 5,
 		"common": 1
 	},
 	{
