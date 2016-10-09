@@ -140,7 +140,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10302,
+		"ips": 10452,
 		"common": 4
 	},
 	{
@@ -374,8 +374,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47218,
-		"common": 38
+		"ips": 47211,
+		"common": 37
 	},
 	{
 		"name": "firehol_level1",
@@ -398,7 +398,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584488,
+		"ips": 9584630,
 		"common": 901
 	},
 	{
@@ -848,26 +848,26 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 1021,
+		"ips": 1019,
 		"common": 2
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
 		"ips": 1074,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2713,
-		"common": 9
+		"ips": 2715,
+		"common": 10
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
 		"ips": 1442,
-		"common": 4
+		"common": 5
 	},
 	{
 		"name": "trustedsec_atif",
