@@ -170,8 +170,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 13868,
-		"common": 98
+		"ips": 13861,
+		"common": 97
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -182,8 +182,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47388,
-		"common": 419
+		"ips": 47385,
+		"common": 412
 	},
 	{
 		"name": "firehol_level1",
@@ -200,7 +200,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 160911,
+		"ips": 160945,
 		"common": 5
 	},
 	{
@@ -212,14 +212,14 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34392,
-		"common": 419
+		"ips": 34390,
+		"common": 412
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50939624,
-		"common": 37
+		"common": 34
 	},
 	{
 		"name": "gofferje_sip",
@@ -237,7 +237,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 37
+		"common": 34
 	},
 	{
 		"name": "iblocklist_edu",
@@ -477,7 +477,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50717576,
-		"common": 34
+		"common": 31
 	},
 	{
 		"name": "ri_connect_proxies",
@@ -534,27 +534,21 @@
 		"common": 27
 	},
 	{
-		"name": "socks_proxy",
-		"category": "anonymizers",
-		"ips": 80,
-		"common": 1
-	},
-	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2636,
+		"ips": 2584,
 		"common": 18
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 19801,
-		"common": 20
+		"ips": 19799,
+		"common": 19
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 7100,
+		"ips": 7101,
 		"common": 18
 	},
 	{
@@ -567,7 +561,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373088326,
-		"common": 128
+		"common": 127
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -585,7 +579,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1812789,
-		"common": 33
+		"common": 32
 	},
 	{
 		"name": "sorbs_web",
@@ -597,7 +591,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 151
+		"common": 150
 	},
 	{
 		"name": "spamhaus_edrop",
@@ -615,13 +609,13 @@
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
 		"ips": 3992,
-		"common": 419
+		"common": 412
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
 		"ips": 977,
-		"common": 419
+		"common": 412
 	},
 	{
 		"name": "stopforumspam",
@@ -638,8 +632,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 3825,
-		"common": 33
+		"ips": 3827,
+		"common": 32
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -651,7 +645,7 @@
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 596546,
-		"common": 61
+		"common": 60
 	},
 	{
 		"name": "stopforumspam_7d",

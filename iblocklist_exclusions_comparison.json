@@ -134,8 +134,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 13868,
-		"common": 1
+		"ips": 13861,
+		"common": 2
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -146,7 +146,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47388,
+		"ips": 47385,
 		"common": 1
 	},
 	{
@@ -164,7 +164,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 160911,
+		"ips": 160945,
 		"common": 1
 	},
 	{
@@ -272,7 +272,7 @@
 	{
 		"name": "iblocklist_cidr_report_bogons",
 		"category": "unroutable",
-		"ips": 603886664,
+		"ips": 603871304,
 		"common": 1
 	},
 	{
@@ -412,6 +412,12 @@
 		"category": "abuse",
 		"ips": 298993,
 		"common": 10
+	},
+	{
+		"name": "stopforumspam_1d",
+		"category": "abuse",
+		"ips": 3827,
+		"common": 1
 	},
 	{
 		"name": "stopforumspam_30d",
