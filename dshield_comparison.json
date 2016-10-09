@@ -92,8 +92,8 @@
 	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
-		"ips": 12868,
-		"common": 172
+		"ips": 12951,
+		"common": 171
 	},
 	{
 		"name": "bi_any_2_7d",
@@ -146,7 +146,7 @@
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 1128,
+		"ips": 1126,
 		"common": 1
 	},
 	{
@@ -182,19 +182,19 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9433,
+		"ips": 9421,
 		"common": 16
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 2234,
+		"ips": 2220,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1278,
+		"ips": 1279,
 		"common": 2
 	},
 	{
@@ -290,13 +290,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 123650,
+		"ips": 123643,
 		"common": 9
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 138235,
+		"ips": 138171,
 		"common": 13
 	},
 	{
@@ -428,7 +428,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 274510,
+		"ips": 274502,
 		"common": 12
 	},
 	{
@@ -609,6 +609,12 @@
 		"name": "maxmind_proxy_fraud",
 		"category": "anonymizers",
 		"ips": 455,
+		"common": 1
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 38563,
 		"common": 1
 	},
 	{
@@ -800,7 +806,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 45461,
+		"ips": 45349,
 		"common": 2
 	},
 	{
