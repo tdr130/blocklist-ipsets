@@ -9,7 +9,7 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 12868,
-		"common": 46
+		"common": 45
 	},
 	{
 		"name": "bi_any_2_7d",
@@ -21,7 +21,7 @@
 		"name": "bi_http_2_30d",
 		"category": "attacks",
 		"ips": 696,
-		"common": 45
+		"common": 44
 	},
 	{
 		"name": "bi_ssh_2_30d",
@@ -32,26 +32,26 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31313,
-		"common": 157
+		"ips": 31167,
+		"common": 155
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9427,
-		"common": 157
+		"ips": 9419,
+		"common": 155
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 199,
+		"ips": 198,
 		"common": 3
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 12788,
-		"common": 71
+		"common": 72
 	},
 	{
 		"name": "botscout_1d",
@@ -74,73 +74,73 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 3362,
-		"common": 3
+		"ips": 3369,
+		"common": 4
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 9177,
-		"common": 8
+		"ips": 9234,
+		"common": 9
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 123764,
+		"ips": 123773,
 		"common": 53
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 21000,
+		"ips": 21009,
 		"common": 15
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 1362,
+		"ips": 1369,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 4805,
+		"ips": 4856,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 36167,
+		"ips": 36218,
 		"common": 19
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 11358,
+		"ips": 11374,
 		"common": 8
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5299,
-		"common": 6
+		"ips": 5309,
+		"common": 7
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 138439,
+		"ips": 138387,
 		"common": 52
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 12458,
+		"ips": 12451,
 		"common": 10
 	},
 	{
@@ -206,19 +206,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 13785,
-		"common": 14
+		"ips": 13839,
+		"common": 15
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 274608,
+		"ips": 274618,
 		"common": 69
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47354,
+		"ips": 47339,
 		"common": 2
 	},
 	{
@@ -230,8 +230,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40276,
-		"common": 157
+		"ips": 40360,
+		"common": 155
 	},
 	{
 		"name": "firehol_level3",
@@ -243,19 +243,19 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9586940,
-		"common": 85
+		"common": 86
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34386,
+		"ips": 34371,
 		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50939468,
-		"common": 59
+		"common": 58
 	},
 	{
 		"name": "gofferje_sip",
@@ -273,7 +273,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 1354,
-		"common": 14
+		"common": 12
 	},
 	{
 		"name": "haley_ssh",
@@ -423,7 +423,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50717576,
-		"common": 55
+		"common": 54
 	},
 	{
 		"name": "ransomware_feed",
@@ -464,19 +464,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2678,
+		"ips": 2671,
 		"common": 2
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 19791,
+		"ips": 19777,
 		"common": 2
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 7103,
+		"ips": 7091,
 		"common": 2
 	},
 	{
@@ -489,7 +489,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1812789,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "sorbs_web",
