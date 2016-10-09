@@ -20,38 +20,38 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1499,
-		"common": 209
+		"ips": 1495,
+		"common": 206
 	},
 	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 12868,
-		"common": 337
+		"common": 336
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 5356,
-		"common": 356
+		"common": 355
 	},
 	{
 		"name": "bi_ftp_2_30d",
 		"category": "attacks",
 		"ips": 678,
-		"common": 337
+		"common": 335
 	},
 	{
 		"name": "bi_ssh_2_30d",
 		"category": "attacks",
 		"ips": 9509,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31136,
-		"common": 1559
+		"ips": 31212,
+		"common": 1561
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -138,6 +138,12 @@
 		"common": 1
 	},
 	{
+		"name": "dronebl_auto_botnets",
+		"category": "reputation",
+		"ips": 304414,
+		"common": 1
+	},
+	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 46080,
@@ -146,7 +152,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 13812,
+		"ips": 13809,
 		"common": 7
 	},
 	{
@@ -164,8 +170,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40805,
-		"common": 1559
+		"ips": 40118,
+		"common": 1561
 	},
 	{
 		"name": "firehol_level3",
@@ -176,7 +182,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9585392,
+		"ips": 9585386,
 		"common": 29
 	},
 	{
@@ -194,8 +200,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2013,
-		"common": 497
+		"ips": 942,
+		"common": 292
 	},
 	{
 		"name": "iblocklist_badpeers",
@@ -214,6 +220,12 @@
 		"category": "organizations",
 		"ips": 227983648,
 		"common": 10
+	},
+	{
+		"name": "iblocklist_isp_comcast",
+		"category": "organizations",
+		"ips": 45121536,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_isp_verizon",
@@ -345,7 +357,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373088326,
-		"common": 254
+		"common": 258
 	},
 	{
 		"name": "sorbs_new_spam",

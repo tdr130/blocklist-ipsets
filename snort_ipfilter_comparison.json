@@ -56,7 +56,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1499,
+		"ips": 1495,
 		"common": 25
 	},
 	{
@@ -128,13 +128,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31136,
-		"common": 402
+		"ips": 31212,
+		"common": 403
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9450,
+		"ips": 9452,
 		"common": 4
 	},
 	{
@@ -152,19 +152,19 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1289,
+		"ips": 1297,
 		"common": 9
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 21231,
-		"common": 379
+		"ips": 21268,
+		"common": 380
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 5078,
+		"ips": 5098,
 		"common": 6
 	},
 	{
@@ -224,31 +224,25 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6990,
-		"common": 954
-	},
-	{
-		"name": "botscout",
-		"category": "abuse",
-		"ips": 25,
-		"common": 4
+		"ips": 6989,
+		"common": 952
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 705,
-		"common": 80
+		"ips": 699,
+		"common": 78
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16554,
+		"ips": 16548,
 		"common": 475
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4772,
+		"ips": 4746,
 		"common": 293
 	},
 	{
@@ -524,8 +518,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 13812,
-		"common": 321
+		"ips": 13809,
+		"common": 320
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -536,7 +530,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47271,
+		"ips": 47225,
 		"common": 1747
 	},
 	{
@@ -548,8 +542,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40805,
-		"common": 409
+		"ips": 40118,
+		"common": 407
 	},
 	{
 		"name": "firehol_level3",
@@ -560,7 +554,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9585392,
+		"ips": 9585386,
 		"common": 590
 	},
 	{
@@ -596,8 +590,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2013,
-		"common": 9
+		"ips": 942,
+		"common": 3
 	},
 	{
 		"name": "haley_ssh",
