@@ -62,13 +62,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32220,
-		"common": 697
+		"ips": 32281,
+		"common": 699
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 2252,
+		"ips": 2253,
 		"common": 8
 	},
 	{
@@ -82,6 +82,12 @@
 		"category": "attacks",
 		"ips": 21253,
 		"common": 681
+	},
+	{
+		"name": "blocklist_de_sip",
+		"category": "attacks",
+		"ips": 119,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
@@ -98,7 +104,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10452,
+		"ips": 10567,
 		"common": 4
 	},
 	{
@@ -422,8 +428,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41867,
-		"common": 707
+		"ips": 41927,
+		"common": 709
 	},
 	{
 		"name": "firehol_level3",
@@ -434,7 +440,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584630,
+		"ips": 9584743,
 		"common": 70
 	},
 	{
@@ -692,8 +698,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37557,
-		"common": 320
+		"ips": 38218,
+		"common": 319
 	},
 	{
 		"name": "nullsecure",
