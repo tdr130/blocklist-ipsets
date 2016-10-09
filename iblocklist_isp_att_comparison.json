@@ -332,13 +332,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 2915,
+		"ips": 2924,
 		"common": 1
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1402,
+		"ips": 1406,
 		"common": 1
 	},
 	{
@@ -458,7 +458,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47275,
+		"ips": 47266,
 		"common": 78
 	},
 	{
@@ -488,7 +488,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34354,
+		"ips": 34352,
 		"common": 68
 	},
 	{
@@ -806,13 +806,13 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 2420,
-		"common": 2
+		"ips": 2371,
+		"common": 1
 	},
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 95,
+		"ips": 98,
 		"common": 7
 	},
 	{
@@ -948,27 +948,21 @@
 		"common": 16
 	},
 	{
-		"name": "socks_proxy",
-		"category": "anonymizers",
-		"ips": 80,
-		"common": 1
-	},
-	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2584,
+		"ips": 2581,
 		"common": 7
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 19814,
+		"ips": 19811,
 		"common": 41
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 7129,
+		"ips": 7133,
 		"common": 24
 	},
 	{
@@ -1028,13 +1022,13 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3961,
+		"ips": 3962,
 		"common": 3
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1006,
+		"ips": 1007,
 		"common": 2
 	},
 	{
@@ -1052,7 +1046,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 3818,
+		"ips": 3811,
 		"common": 2
 	},
 	{
@@ -1106,19 +1100,19 @@
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1073,
+		"ips": 1075,
 		"common": 3
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2720,
+		"ips": 2721,
 		"common": 39
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1443,
+		"ips": 1440,
 		"common": 15
 	},
 	{

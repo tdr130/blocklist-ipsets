@@ -296,7 +296,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47275,
+		"ips": 47266,
 		"common": 108
 	},
 	{
@@ -326,7 +326,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34354,
+		"ips": 34352,
 		"common": 1
 	},
 	{
@@ -624,6 +624,12 @@
 		"common": 8
 	},
 	{
+		"name": "packetmail",
+		"category": "reputation",
+		"ips": 2371,
+		"common": 1
+	},
+	{
 		"name": "packetmail_carisirt",
 		"category": "reputation",
 		"ips": 550,
@@ -776,19 +782,19 @@
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1073,
+		"ips": 1075,
 		"common": 3
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2720,
+		"ips": 2721,
 		"common": 7
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1443,
+		"ips": 1440,
 		"common": 5
 	},
 	{
