@@ -84,6 +84,12 @@
 		"common": 2
 	},
 	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 267,
+		"common": 1
+	},
+	{
 		"name": "bambenek_tinba",
 		"category": "malware",
 		"ips": 38,
@@ -110,8 +116,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1537,
-		"common": 30
+		"ips": 1502,
+		"common": 29
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -236,7 +242,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10140,
+		"ips": 10166,
 		"common": 137
 	},
 	{
@@ -288,28 +294,22 @@
 		"common": 3
 	},
 	{
-		"name": "botscout",
-		"category": "abuse",
-		"ips": 46,
-		"common": 3
-	},
-	{
 		"name": "botscout_1d",
 		"category": "abuse",
 		"ips": 770,
-		"common": 25
+		"common": 23
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16550,
+		"ips": 16553,
 		"common": 472
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4813,
-		"common": 146
+		"ips": 4812,
+		"common": 145
 	},
 	{
 		"name": "botvrij_dst",
@@ -326,7 +326,7 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 3157,
+		"ips": 3217,
 		"common": 142
 	},
 	{
@@ -651,7 +651,7 @@
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
 		"ips": 13815,
-		"common": 728
+		"common": 727
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -668,8 +668,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 663825963,
-		"common": 25386819
+		"ips": 663825961,
+		"common": 25386820
 	},
 	{
 		"name": "firehol_level2",
@@ -680,13 +680,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 161175,
+		"ips": 161233,
 		"common": 6760
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584315,
+		"ips": 9584347,
 		"common": 5543121
 	},
 	{
@@ -722,8 +722,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2037,
-		"common": 21
+		"ips": 2030,
+		"common": 20
 	},
 	{
 		"name": "haley_ssh",
