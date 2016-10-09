@@ -26,8 +26,8 @@
 	{
 		"name": "bds_atif",
 		"category": "reputation",
-		"ips": 3771,
-		"common": 80
+		"ips": 3861,
+		"common": 83
 	},
 	{
 		"name": "bi_any_2_1d",
@@ -194,13 +194,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 2886,
+		"ips": 2890,
 		"common": 408
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1385,
+		"ips": 1388,
 		"common": 310
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47214,
+		"ips": 47213,
 		"common": 1
 	},
 	{
@@ -338,7 +338,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34311,
+		"ips": 34310,
 		"common": 1
 	},
 	{
@@ -548,14 +548,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 2482,
+		"ips": 2452,
 		"common": 29
-	},
-	{
-		"name": "packetmail_mail",
-		"category": "reputation",
-		"ips": 104,
-		"common": 1
 	},
 	{
 		"name": "php_harvesters_1d",

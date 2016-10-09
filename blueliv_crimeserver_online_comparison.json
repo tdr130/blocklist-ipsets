@@ -62,8 +62,8 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 11,
-		"common": 10
+		"ips": 12,
+		"common": 11
 	},
 	{
 		"name": "bambenek_bebloh",
@@ -116,8 +116,8 @@
 	{
 		"name": "bambenek_tinba",
 		"category": "malware",
-		"ips": 37,
-		"common": 22
+		"ips": 38,
+		"common": 23
 	},
 	{
 		"name": "bambenek_volatile",
@@ -140,7 +140,7 @@
 	{
 		"name": "bds_atif",
 		"category": "reputation",
-		"ips": 3771,
+		"ips": 3861,
 		"common": 8
 	},
 	{
@@ -464,13 +464,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 2886,
+		"ips": 2890,
 		"common": 1
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1385,
+		"ips": 1388,
 		"common": 1
 	},
 	{
@@ -722,7 +722,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47214,
+		"ips": 47213,
 		"common": 23
 	},
 	{
@@ -752,7 +752,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34311,
+		"ips": 34310,
 		"common": 10
 	},
 	{
@@ -1220,7 +1220,7 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 2482,
+		"ips": 2452,
 		"common": 1
 	},
 	{
@@ -1446,21 +1446,15 @@
 		"common": 60
 	},
 	{
-		"name": "socks_proxy",
-		"category": "anonymizers",
-		"ips": 80,
-		"common": 1
-	},
-	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2666,
+		"ips": 2654,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 19762,
+		"ips": 19760,
 		"common": 2
 	},
 	{
@@ -1562,7 +1556,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 3769,
+		"ips": 3735,
 		"common": 2
 	},
 	{
