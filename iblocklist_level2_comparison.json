@@ -206,7 +206,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1592,
+		"ips": 1597,
 		"common": 106
 	},
 	{
@@ -278,25 +278,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4337,
-		"common": 378
+		"ips": 4320,
+		"common": 376
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5548,
+		"ips": 5541,
 		"common": 397
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22462,
+		"ips": 22456,
 		"common": 680
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 9672,
+		"ips": 9669,
 		"common": 469
 	},
 	{
@@ -414,21 +414,27 @@
 		"common": 329
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 27,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 702,
+		"ips": 692,
 		"common": 19
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16468,
+		"ips": 16465,
 		"common": 653
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4665,
+		"ips": 4658,
 		"common": 182
 	},
 	{
@@ -902,7 +908,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 13179,
+		"ips": 13171,
 		"common": 366
 	},
 	{
@@ -914,8 +920,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47334,
-		"common": 2146
+		"ips": 47358,
+		"common": 2148
 	},
 	{
 		"name": "firehol_level1",
@@ -926,8 +932,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39840,
-		"common": 1705
+		"ips": 39848,
+		"common": 1708
 	},
 	{
 		"name": "firehol_level3",
@@ -938,14 +944,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587015,
+		"ips": 9587011,
 		"common": 2537929
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34366,
-		"common": 1061
+		"ips": 34390,
+		"common": 1063
 	},
 	{
 		"name": "firehol_webserver",
@@ -980,8 +986,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1422,
-		"common": 53
+		"ips": 1432,
+		"common": 56
 	},
 	{
 		"name": "haley_ssh",
@@ -1394,8 +1400,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37037,
-		"common": 623
+		"ips": 36977,
+		"common": 633
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1940,13 +1946,13 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3922,
+		"ips": 3923,
 		"common": 63
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1018,
+		"ips": 1019,
 		"common": 18
 	},
 	{
