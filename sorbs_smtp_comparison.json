@@ -104,19 +104,19 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47321,
+		"ips": 47344,
 		"common": 2
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 160322,
+		"ips": 160346,
 		"common": 3
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587215,
+		"ips": 9587353,
 		"common": 2
 	},
 	{
@@ -291,6 +291,12 @@
 		"name": "myip",
 		"category": "abuse",
 		"ips": 2223,
+		"common": 1
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 36201,
 		"common": 1
 	},
 	{
