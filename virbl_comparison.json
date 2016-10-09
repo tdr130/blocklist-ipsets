@@ -8,8 +8,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40753,
-		"common": 5
+		"ips": 40756,
+		"common": 7
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 160447,
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
@@ -22,6 +28,12 @@
 		"category": "reputation",
 		"ips": 50717576,
 		"common": 2
+	},
+	{
+		"name": "snort_ipfilter",
+		"category": "attacks",
+		"ips": 44928,
+		"common": 1
 	},
 	{
 		"name": "sorbs_dul",
@@ -39,6 +51,12 @@
 		"name": "spamhaus_edrop",
 		"category": "reputation",
 		"ips": 793088,
+		"common": 1
+	},
+	{
+		"name": "talosintel_ipfilter",
+		"category": "attacks",
+		"ips": 44327,
 		"common": 1
 	}
 ]
