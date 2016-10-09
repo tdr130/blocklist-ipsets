@@ -146,25 +146,25 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9452,
-		"common": 9
+		"ips": 9423,
+		"common": 8
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 2255,
+		"ips": 2238,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 1562,
+		"ips": 1611,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1297,
+		"ips": 1290,
 		"common": 8
 	},
 	{
@@ -386,14 +386,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 2899,
-		"common": 31
+		"ips": 2903,
+		"common": 32
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1393,
-		"common": 19
+		"ips": 1391,
+		"common": 20
 	},
 	{
 		"name": "dm_tor",
@@ -650,7 +650,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47287,
+		"ips": 47289,
 		"common": 77
 	},
 	{
@@ -680,7 +680,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34332,
+		"ips": 34334,
 		"common": 73
 	},
 	{
@@ -1302,15 +1302,9 @@
 		"common": 28
 	},
 	{
-		"name": "socks_proxy",
-		"category": "anonymizers",
-		"ips": 80,
-		"common": 1
-	},
-	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2674,
+		"ips": 2660,
 		"common": 5
 	},
 	{
@@ -1400,19 +1394,19 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 433,
+		"ips": 423,
 		"common": 2
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 4018,
+		"ips": 4020,
 		"common": 24
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 963,
+		"ips": 965,
 		"common": 8
 	},
 	{
@@ -1484,7 +1478,7 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 1017,
+		"ips": 1018,
 		"common": 1
 	},
 	{
@@ -1496,13 +1490,13 @@
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2714,
+		"ips": 2715,
 		"common": 3
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1441,
+		"ips": 1442,
 		"common": 1
 	},
 	{

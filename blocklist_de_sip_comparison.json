@@ -39,7 +39,7 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 31212,
-		"common": 78
+		"common": 76
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -165,7 +165,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 40111,
-		"common": 78
+		"common": 76
 	},
 	{
 		"name": "firehol_level3",
@@ -261,6 +261,12 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
+		"common": 1
+	},
+	{
+		"name": "lashback_ubl",
+		"category": "spam",
+		"ips": 3615951,
 		"common": 1
 	},
 	{
@@ -363,6 +369,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 19781,
-		"common": 51
+		"common": 50
 	}
 ]

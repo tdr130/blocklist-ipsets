@@ -176,8 +176,8 @@
 	{
 		"name": "bambenek_tinba",
 		"category": "malware",
-		"ips": 37,
-		"common": 37
+		"ips": 38,
+		"common": 38
 	},
 	{
 		"name": "bambenek_volatile",
@@ -308,14 +308,14 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9452,
-		"common": 1052
+		"ips": 9423,
+		"common": 1048
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 2255,
-		"common": 199
+		"ips": 2238,
+		"common": 197
 	},
 	{
 		"name": "blocklist_de_bruteforce",
@@ -326,13 +326,13 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 1562,
+		"ips": 1611,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1297,
+		"ips": 1290,
 		"common": 31
 	},
 	{
@@ -596,13 +596,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 2899,
+		"ips": 2903,
 		"common": 57
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1393,
+		"ips": 1391,
 		"common": 40
 	},
 	{
@@ -902,7 +902,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47287,
+		"ips": 47289,
 		"common": 22
 	},
 	{
@@ -926,7 +926,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34332,
+		"ips": 34334,
 		"common": 16
 	},
 	{
@@ -1712,19 +1712,19 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 433,
+		"ips": 423,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 4018,
+		"ips": 4020,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 963,
+		"ips": 965,
 		"common": 1
 	},
 	{
@@ -1796,7 +1796,7 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 1017,
+		"ips": 1018,
 		"common": 3
 	},
 	{
@@ -1808,13 +1808,13 @@
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2714,
+		"ips": 2715,
 		"common": 3
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1441,
+		"ips": 1442,
 		"common": 3
 	},
 	{
