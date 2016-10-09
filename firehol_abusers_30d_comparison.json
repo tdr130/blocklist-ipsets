@@ -464,13 +464,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 2876,
+		"ips": 2886,
 		"common": 95
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1382,
+		"ips": 1385,
 		"common": 63
 	},
 	{
@@ -758,14 +758,14 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 13836,
-		"common": 12840
+		"ips": 13799,
+		"common": 12774
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47219,
-		"common": 11438
+		"ips": 47227,
+		"common": 11439
 	},
 	{
 		"name": "firehol_level1",
@@ -794,8 +794,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34316,
-		"common": 10869
+		"ips": 34324,
+		"common": 10870
 	},
 	{
 		"name": "firehol_webserver",
@@ -1521,7 +1521,7 @@
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 2594,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -1611,13 +1611,13 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 31
+		"common": 32
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2724,
-		"common": 962
+		"ips": 2682,
+		"common": 947
 	},
 	{
 		"name": "socks_proxy_30d",
@@ -1628,7 +1628,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 7119,
+		"ips": 7118,
 		"common": 2050
 	},
 	{
@@ -1712,20 +1712,20 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 450,
-		"common": 114
+		"ips": 458,
+		"common": 119
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 4046,
-		"common": 977
+		"ips": 4057,
+		"common": 980
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 931,
-		"common": 269
+		"ips": 944,
+		"common": 273
 	},
 	{
 		"name": "stopforumspam",
@@ -1742,8 +1742,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 3809,
-		"common": 3264
+		"ips": 3769,
+		"common": 3193
 	},
 	{
 		"name": "stopforumspam_30d",
