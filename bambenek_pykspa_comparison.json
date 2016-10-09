@@ -15,7 +15,7 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 268,
-		"common": 12
+		"common": 11
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -81,7 +81,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 663823914,
-		"common": 12
+		"common": 11
 	},
 	{
 		"name": "firehol_level4",
@@ -93,7 +93,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50939624,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "hphosts_ats",
@@ -156,12 +156,6 @@
 		"common": 3
 	},
 	{
-		"name": "iblocklist_bogons",
-		"category": "unroutable",
-		"ips": 666661539,
-		"common": 1
-	},
-	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691761,
@@ -201,7 +195,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50717576,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "ransomware_feed",
