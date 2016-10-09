@@ -153,7 +153,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50939624,
-		"common": 32
+		"common": 33
 	},
 	{
 		"name": "hphosts_ats",
@@ -165,7 +165,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 20666,
-		"common": 32
+		"common": 33
 	},
 	{
 		"name": "hphosts_exp",
@@ -201,7 +201,7 @@
 		"name": "hphosts_mmt",
 		"category": "reputation",
 		"ips": 1175,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "hphosts_pha",
@@ -213,7 +213,7 @@
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 16738,
-		"common": 27
+		"common": 28
 	},
 	{
 		"name": "hphosts_wrz",
@@ -225,7 +225,7 @@
 		"name": "iblocklist_ads",
 		"category": "organizations",
 		"ips": 888645,
-		"common": 24
+		"common": 25
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -267,7 +267,7 @@
 		"name": "iblocklist_yoyo_adservers",
 		"category": "organizations",
 		"ips": 12202,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -279,7 +279,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -298,6 +298,12 @@
 		"category": "attacks",
 		"ips": 44928,
 		"common": 3
+	},
+	{
+		"name": "sp_atma",
+		"category": "attacks",
+		"ips": 8771,
+		"common": 1
 	},
 	{
 		"name": "taichung",
@@ -321,7 +327,7 @@
 		"name": "yoyo_adservers",
 		"category": "organizations",
 		"ips": 12886,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "zeus",
