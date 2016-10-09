@@ -2,7 +2,7 @@
 	{
 		"name": "alienvault_reputation",
 		"category": "reputation",
-		"ips": 15246,
+		"ips": 15375,
 		"common": 3
 	},
 	{
@@ -404,7 +404,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42136,
+		"ips": 42134,
 		"common": 139
 	},
 	{
@@ -1188,21 +1188,27 @@
 		"common": 3
 	},
 	{
+		"name": "xroxy",
+		"category": "anonymizers",
+		"ips": 64,
+		"common": 1
+	},
+	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 160,
-		"common": 3
+		"ips": 163,
+		"common": 4
 	},
 	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
-		"ips": 816,
+		"ips": 817,
 		"common": 12
 	},
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 346,
+		"ips": 348,
 		"common": 8
 	}
 ]
