@@ -86,37 +86,37 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32482,
-		"common": 5621
+		"ips": 32338,
+		"common": 5598
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 2282,
+		"ips": 2252,
 		"common": 45
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 1607,
-		"common": 10
+		"ips": 1598,
+		"common": 9
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1288,
+		"ips": 1290,
 		"common": 21
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 21387,
-		"common": 5545
+		"ips": 21326,
+		"common": 5522
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 6168,
+		"ips": 6135,
 		"common": 21
 	},
 	{
@@ -566,8 +566,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47214,
-		"common": 1768
+		"ips": 47217,
+		"common": 1774
 	},
 	{
 		"name": "firehol_level1",
@@ -578,8 +578,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42134,
-		"common": 5633
+		"ips": 41991,
+		"common": 5610
 	},
 	{
 		"name": "firehol_level3",
@@ -596,8 +596,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34311,
-		"common": 1764
+		"ips": 34314,
+		"common": 1770
 	},
 	{
 		"name": "firehol_webserver",
@@ -1311,25 +1311,25 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 35
+		"common": 42
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2675,
-		"common": 1115
+		"ips": 2678,
+		"common": 1120
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 19761,
-		"common": 1677
+		"ips": 19765,
+		"common": 1683
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 7108,
-		"common": 1564
+		"ips": 7095,
+		"common": 1569
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -1418,7 +1418,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 4037,
+		"ips": 4032,
 		"common": 37
 	},
 	{
