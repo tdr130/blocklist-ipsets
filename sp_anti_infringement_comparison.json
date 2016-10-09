@@ -62,8 +62,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1492,
-		"common": 54
+		"ips": 1508,
+		"common": 57
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -110,7 +110,7 @@
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 531,
+		"ips": 530,
 		"common": 5
 	},
 	{
@@ -122,7 +122,7 @@
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 1129,
+		"ips": 1128,
 		"common": 13
 	},
 	{
@@ -264,21 +264,27 @@
 		"common": 42
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 22,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 669,
-		"common": 31
+		"ips": 662,
+		"common": 30
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16521,
-		"common": 1000
+		"ips": 16513,
+		"common": 999
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4716,
+		"ips": 4718,
 		"common": 250
 	},
 	{
@@ -734,8 +740,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 13807,
-		"common": 946
+		"ips": 13802,
+		"common": 945
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -770,8 +776,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586845,
-		"common": 29216
+		"ips": 9586839,
+		"common": 29215
 	},
 	{
 		"name": "firehol_proxies",
@@ -1226,8 +1232,8 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 177,
-		"common": 9
+		"ips": 176,
+		"common": 8
 	},
 	{
 		"name": "openbl_30d",
@@ -1472,7 +1478,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 2594,
+		"ips": 2595,
 		"common": 16
 	},
 	{
@@ -1802,13 +1808,13 @@
 	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
-		"ips": 822,
-		"common": 102
+		"ips": 819,
+		"common": 101
 	},
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 356,
+		"ips": 355,
 		"common": 18
 	},
 	{
