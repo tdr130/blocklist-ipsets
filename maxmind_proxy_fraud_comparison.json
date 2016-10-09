@@ -188,13 +188,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 2933,
+		"ips": 2936,
 		"common": 3
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1409,
+		"ips": 1410,
 		"common": 1
 	},
 	{
@@ -272,13 +272,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47287,
+		"ips": 47354,
 		"common": 455
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39916,
+		"ips": 39756,
 		"common": 4
 	},
 	{
@@ -296,7 +296,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34317,
+		"ips": 34386,
 		"common": 455
 	},
 	{
@@ -638,19 +638,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2529,
+		"ips": 2598,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 19811,
+		"ips": 19883,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 7119,
+		"ips": 7192,
 		"common": 1
 	},
 	{
@@ -764,26 +764,26 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 1021,
-		"common": 219
+		"ips": 1022,
+		"common": 220
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1073,
-		"common": 221
+		"ips": 1075,
+		"common": 222
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2721,
-		"common": 273
+		"ips": 2719,
+		"common": 272
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1441,
-		"common": 232
+		"ips": 1440,
+		"common": 233
 	},
 	{
 		"name": "turris_greylist",
