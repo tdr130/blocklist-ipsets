@@ -182,7 +182,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587480,
+		"ips": 9587418,
 		"common": 1
 	},
 	{
@@ -272,7 +272,7 @@
 	{
 		"name": "iw_spamlist",
 		"category": "spam",
-		"ips": 6114,
+		"ips": 6035,
 		"common": 4
 	},
 	{
@@ -429,6 +429,12 @@
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
 		"ips": 44327,
+		"common": 1
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 11325,
 		"common": 1
 	}
 ]

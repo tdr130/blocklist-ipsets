@@ -146,8 +146,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13563,
-		"common": 292
+		"ips": 13502,
+		"common": 293
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -398,8 +398,8 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 258751,
-		"common": 370
+		"ips": 258750,
+		"common": 369
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -512,8 +512,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587480,
-		"common": 1643
+		"ips": 9587418,
+		"common": 1644
 	},
 	{
 		"name": "firehol_proxies",
@@ -812,7 +812,7 @@
 	{
 		"name": "iw_spamlist",
 		"category": "spam",
-		"ips": 6114,
+		"ips": 6035,
 		"common": 9
 	},
 	{
@@ -1022,25 +1022,25 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 838,
+		"ips": 862,
 		"common": 51
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2351,
-		"common": 148
+		"ips": 2388,
+		"common": 149
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 8766,
+		"ips": 8792,
 		"common": 265
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 4465,
+		"ips": 4482,
 		"common": 232
 	},
 	{
@@ -1092,21 +1092,27 @@
 		"common": 139
 	},
 	{
+		"name": "proxz",
+		"category": "anonymizers",
+		"ips": 25,
+		"common": 2
+	},
+	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 236,
+		"ips": 248,
 		"common": 18
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2549,
+		"ips": 2555,
 		"common": 99
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 957,
+		"ips": 961,
 		"common": 51
 	},
 	{
@@ -1394,8 +1400,8 @@
 	{
 		"name": "turris_greylist",
 		"category": "reputation",
-		"ips": 11792,
-		"common": 26
+		"ips": 11325,
+		"common": 20
 	},
 	{
 		"name": "voipbl",

@@ -128,8 +128,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13563,
-		"common": 53
+		"ips": 13502,
+		"common": 52
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -290,7 +290,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 258751,
+		"ips": 258750,
 		"common": 1
 	},
 	{
@@ -524,8 +524,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587480,
-		"common": 954
+		"ips": 9587418,
+		"common": 953
 	},
 	{
 		"name": "firehol_webserver",
@@ -994,6 +994,12 @@
 		"category": "malware",
 		"ips": 2594,
 		"common": 23
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 11325,
+		"common": 3
 	},
 	{
 		"name": "urlvir",

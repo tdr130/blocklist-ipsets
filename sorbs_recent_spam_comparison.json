@@ -98,13 +98,13 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4237,
-		"common": 1
+		"ips": 4230,
+		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5539,
+		"ips": 5526,
 		"common": 3
 	},
 	{
@@ -116,7 +116,7 @@
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 9656,
+		"ips": 9649,
 		"common": 6
 	},
 	{
@@ -176,8 +176,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13563,
-		"common": 453
+		"ips": 13502,
+		"common": 451
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -434,7 +434,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 258751,
+		"ips": 258750,
 		"common": 4326
 	},
 	{
@@ -722,8 +722,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587480,
-		"common": 4287
+		"ips": 9587418,
+		"common": 4285
 	},
 	{
 		"name": "firehol_proxies",
@@ -1112,8 +1112,8 @@
 	{
 		"name": "iw_spamlist",
 		"category": "spam",
-		"ips": 6114,
-		"common": 4298
+		"ips": 6035,
+		"common": 4202
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -1340,26 +1340,26 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 838,
-		"common": 76
+		"ips": 862,
+		"common": 78
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2351,
+		"ips": 2388,
 		"common": 209
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 8766,
+		"ips": 8792,
 		"common": 755
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 4465,
-		"common": 460
+		"ips": 4482,
+		"common": 459
 	},
 	{
 		"name": "proxyrss",
@@ -1410,21 +1410,27 @@
 		"common": 229
 	},
 	{
+		"name": "proxz",
+		"category": "anonymizers",
+		"ips": 25,
+		"common": 3
+	},
+	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 236,
-		"common": 7
+		"ips": 248,
+		"common": 8
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2549,
+		"ips": 2555,
 		"common": 141
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 957,
+		"ips": 961,
 		"common": 58
 	},
 	{
@@ -1748,8 +1754,8 @@
 	{
 		"name": "turris_greylist",
 		"category": "reputation",
-		"ips": 11792,
-		"common": 250
+		"ips": 11325,
+		"common": 251
 	},
 	{
 		"name": "urlvir",
