@@ -32,31 +32,37 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29524,
+		"ips": 29023,
 		"common": 172
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 2152,
+		"ips": 2148,
 		"common": 150
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 19413,
-		"common": 22
+		"ips": 19377,
+		"common": 21
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 4844,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 201,
+		"ips": 191,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13075,
+		"ips": 13060,
 		"common": 29
 	},
 	{
@@ -500,8 +506,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36804,
-		"common": 28
+		"ips": 36488,
+		"common": 26
 	},
 	{
 		"name": "openbl_all",
