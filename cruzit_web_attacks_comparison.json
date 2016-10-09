@@ -146,7 +146,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12923,
+		"ips": 12924,
 		"common": 22
 	},
 	{
@@ -452,7 +452,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47308,
+		"ips": 47309,
 		"common": 24
 	},
 	{
@@ -464,7 +464,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38239,
+		"ips": 38241,
 		"common": 53
 	},
 	{
@@ -476,13 +476,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587016,
+		"ips": 9587018,
 		"common": 6261
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34343,
+		"ips": 34344,
 		"common": 16
 	},
 	{
@@ -524,7 +524,7 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 22005,
+		"ips": 22006,
 		"common": 68
 	},
 	{
@@ -948,21 +948,27 @@
 		"common": 3
 	},
 	{
+		"name": "proxylists",
+		"category": "anonymizers",
+		"ips": 953,
+		"common": 1
+	},
+	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2366,
-		"common": 2
+		"ips": 2353,
+		"common": 1
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 8748,
+		"ips": 8749,
 		"common": 3
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 4440,
+		"ips": 4442,
 		"common": 3
 	},
 	{
@@ -1010,13 +1016,13 @@
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2536,
+		"ips": 2538,
 		"common": 3
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 962,
+		"ips": 964,
 		"common": 2
 	},
 	{
@@ -1274,7 +1280,7 @@
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 356,
+		"ips": 358,
 		"common": 1
 	},
 	{
