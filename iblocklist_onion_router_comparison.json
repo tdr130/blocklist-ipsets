@@ -122,7 +122,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29390,
+		"ips": 29365,
 		"common": 2
 	},
 	{
@@ -134,13 +134,13 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18940,
+		"ips": 18921,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13641,
+		"ips": 13639,
 		"common": 99
 	},
 	{
@@ -458,7 +458,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587523,
+		"ips": 9587521,
 		"common": 452
 	},
 	{
@@ -710,7 +710,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 34838,
+		"ips": 34809,
 		"common": 4
 	},
 	{
@@ -858,21 +858,27 @@
 		"common": 2
 	},
 	{
+		"name": "proxyrss",
+		"category": "anonymizers",
+		"ips": 740,
+		"common": 1
+	},
+	{
 		"name": "proxyrss_1d",
 		"category": "anonymizers",
-		"ips": 2001,
-		"common": 1
+		"ips": 2103,
+		"common": 2
 	},
 	{
 		"name": "proxyrss_30d",
 		"category": "anonymizers",
-		"ips": 8425,
+		"ips": 8406,
 		"common": 3
 	},
 	{
 		"name": "proxyrss_7d",
 		"category": "anonymizers",
-		"ips": 4177,
+		"ips": 4209,
 		"common": 2
 	},
 	{
@@ -1130,19 +1136,19 @@
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1075,
+		"ips": 1076,
 		"common": 943
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2710,
+		"ips": 2707,
 		"common": 990
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1435,
+		"ips": 1434,
 		"common": 960
 	},
 	{
