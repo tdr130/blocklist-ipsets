@@ -146,31 +146,31 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29063,
-		"common": 1942
+		"ips": 29132,
+		"common": 1950
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9381,
-		"common": 134
+		"ips": 9384,
+		"common": 135
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 2077,
-		"common": 1485
+		"ips": 2085,
+		"common": 1491
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 167,
+		"ips": 168,
 		"common": 18
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 1718,
+		"ips": 1726,
 		"common": 15
 	},
 	{
@@ -182,14 +182,14 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18531,
+		"ips": 18564,
 		"common": 360
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 5802,
-		"common": 64
+		"ips": 5820,
+		"common": 65
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -728,7 +728,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47191,
+		"ips": 47195,
 		"common": 6175
 	},
 	{
@@ -740,8 +740,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40085,
-		"common": 1974
+		"ips": 40154,
+		"common": 1982
 	},
 	{
 		"name": "firehol_level3",
@@ -758,7 +758,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34309,
+		"ips": 34313,
 		"common": 5752
 	},
 	{
@@ -1124,8 +1124,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 34957,
-		"common": 374
+		"ips": 35432,
+		"common": 379
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1352,26 +1352,26 @@
 	{
 		"name": "proxyspy",
 		"category": "anonymizers",
-		"ips": 299,
-		"common": 161
+		"ips": 300,
+		"common": 167
 	},
 	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 1055,
-		"common": 553
+		"ips": 1045,
+		"common": 548
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 6423,
-		"common": 2824
+		"ips": 6421,
+		"common": 2822
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 2768,
-		"common": 1380
+		"ips": 2767,
+		"common": 1377
 	},
 	{
 		"name": "proxz",
@@ -1406,7 +1406,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 2597,
+		"ips": 2596,
 		"common": 2
 	},
 	{
