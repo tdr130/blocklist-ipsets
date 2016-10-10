@@ -63,7 +63,7 @@
 		"name": "bbcan177_ms1",
 		"category": "malware",
 		"ips": 5268311,
-		"common": 136
+		"common": 137
 	},
 	{
 		"name": "bbcan177_ms3",
@@ -92,13 +92,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29246,
+		"ips": 29335,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9395,
+		"ips": 9396,
 		"common": 1
 	},
 	{
@@ -110,7 +110,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13903,
+		"ips": 13901,
 		"common": 29
 	},
 	{
@@ -350,7 +350,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11652,
+		"ips": 11680,
 		"common": 1
 	},
 	{
@@ -362,7 +362,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47226,
+		"ips": 47228,
 		"common": 1
 	},
 	{
@@ -374,7 +374,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40264,
+		"ips": 40353,
 		"common": 2
 	},
 	{
@@ -386,14 +386,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587773,
+		"ips": 9587771,
 		"common": 238
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50939624,
-		"common": 1985
+		"common": 1987
 	},
 	{
 		"name": "fullbogons",
@@ -435,7 +435,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 20666,
-		"common": 1813
+		"common": 1815
 	},
 	{
 		"name": "hphosts_exp",
@@ -662,8 +662,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 34719,
-		"common": 5
+		"ips": 34723,
+		"common": 6
 	},
 	{
 		"name": "nullsecure",
