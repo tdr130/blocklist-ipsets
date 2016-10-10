@@ -14,14 +14,14 @@
 	{
 		"name": "atlas_phishing_2d",
 		"category": "attacks",
-		"ips": 12,
-		"common": 12
+		"ips": 16,
+		"common": 16
 	},
 	{
 		"name": "atlas_phishing_30d",
 		"category": "attacks",
-		"ips": 63,
-		"common": 29
+		"ips": 64,
+		"common": 31
 	},
 	{
 		"name": "bbcan177_ms1",
@@ -39,37 +39,37 @@
 		"name": "blueliv_crimeserver_last",
 		"category": "attacks",
 		"ips": 2611,
-		"common": 25
+		"common": 23
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
 		"category": "attacks",
 		"ips": 4231,
-		"common": 25
+		"common": 23
 	},
 	{
 		"name": "blueliv_crimeserver_last_2d",
 		"category": "attacks",
 		"ips": 6654,
-		"common": 26
+		"common": 25
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
 		"category": "attacks",
 		"ips": 17806,
-		"common": 26
+		"common": 25
 	},
 	{
 		"name": "blueliv_crimeserver_last_7d",
 		"category": "attacks",
 		"ips": 11674,
-		"common": 26
+		"common": 25
 	},
 	{
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 47086,
-		"common": 18
+		"common": 17
 	},
 	{
 		"name": "blueliv_crimeserver_recent",
@@ -81,49 +81,79 @@
 		"name": "cleanmx_phishing",
 		"category": "spam",
 		"ips": 4519,
-		"common": 11
+		"common": 9
 	},
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
 		"ips": 12190,
-		"common": 5
+		"common": 3
+	},
+	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
+		"name": "dshield_1d",
+		"category": "attacks",
+		"ips": 9984,
+		"common": 1
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 46336,
+		"common": 2
+	},
+	{
+		"name": "dshield_7d",
+		"category": "attacks",
+		"ips": 20224,
 		"common": 1
 	},
 	{
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 25398102,
-		"common": 2
+		"common": 3
+	},
+	{
+		"name": "et_dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
 	},
 	{
 		"name": "et_spamhaus",
 		"category": "attacks",
 		"ips": 25392384,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 663819567,
-		"common": 2
+		"common": 3
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 40490,
+		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 160471,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9587533,
-		"common": 5
+		"common": 3
 	},
 	{
 		"name": "firehol_webserver",
@@ -141,7 +171,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 20666,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "hphosts_exp",
@@ -225,7 +255,7 @@
 		"name": "iblocklist_spamhaus_drop",
 		"category": "attacks",
 		"ips": 25448704,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "iblocklist_yoyo_adservers",
@@ -279,7 +309,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50717576,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "ransomware_feed",
@@ -291,7 +321,7 @@
 		"name": "spamhaus_drop",
 		"category": "reputation",
 		"ips": 25448704,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "threatcrowd",
