@@ -24,6 +24,12 @@
 		"common": 1
 	},
 	{
+		"name": "bambenek_bebloh",
+		"category": "malware",
+		"ips": 7,
+		"common": 1
+	},
+	{
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 282,
@@ -52,12 +58,6 @@
 		"category": "malware",
 		"ips": 85,
 		"common": 7
-	},
-	{
-		"name": "bambenek_tinba",
-		"category": "malware",
-		"ips": 27,
-		"common": 1
 	},
 	{
 		"name": "bbcan177_ms1",
@@ -114,21 +114,27 @@
 		"common": 1
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 45,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 772,
+		"ips": 786,
 		"common": 1
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16463,
+		"ips": 16469,
 		"common": 1
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4619,
+		"ips": 4620,
 		"common": 1
 	},
 	{
@@ -194,7 +200,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11802,
+		"ips": 11850,
 		"common": 1
 	},
 	{
@@ -212,7 +218,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587520,
+		"ips": 9587524,
 		"common": 47
 	},
 	{
@@ -422,7 +428,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 2596,
+		"ips": 2597,
 		"common": 11
 	},
 	{

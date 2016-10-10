@@ -20,8 +20,8 @@
 	{
 		"name": "bambenek_bebloh",
 		"category": "malware",
-		"ips": 6,
-		"common": 1
+		"ips": 7,
+		"common": 2
 	},
 	{
 		"name": "bambenek_c2",
@@ -56,7 +56,7 @@
 	{
 		"name": "bambenek_tinba",
 		"category": "malware",
-		"ips": 27,
+		"ips": 32,
 		"common": 2
 	},
 	{
@@ -236,13 +236,13 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16463,
+		"ips": 16469,
 		"common": 1
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4619,
+		"ips": 4620,
 		"common": 1
 	},
 	{
@@ -474,6 +474,12 @@
 		"common": 1
 	},
 	{
+		"name": "firehol_abusers_1d",
+		"category": "abuse",
+		"ips": 11850,
+		"common": 1
+	},
+	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 271302,
@@ -482,7 +488,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47233,
+		"ips": 47214,
 		"common": 1
 	},
 	{
@@ -494,7 +500,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40401,
+		"ips": 40397,
 		"common": 14
 	},
 	{
@@ -506,7 +512,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587520,
+		"ips": 9587524,
 		"common": 12190
 	},
 	{
@@ -908,7 +914,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 2596,
+		"ips": 2597,
 		"common": 170
 	},
 	{
@@ -1018,6 +1024,12 @@
 		"category": "abuse",
 		"ips": 298993,
 		"common": 34
+	},
+	{
+		"name": "stopforumspam_1d",
+		"category": "abuse",
+		"ips": 3870,
+		"common": 1
 	},
 	{
 		"name": "stopforumspam_30d",
