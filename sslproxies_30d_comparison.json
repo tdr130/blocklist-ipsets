@@ -38,7 +38,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29364,
+		"ips": 29325,
 		"common": 78
 	},
 	{
@@ -50,13 +50,13 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1120,
+		"ips": 1122,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18902,
+		"ips": 18858,
 		"common": 5
 	},
 	{
@@ -285,7 +285,7 @@
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
 		"ips": 47198,
-		"common": 3834
+		"common": 3833
 	},
 	{
 		"name": "firehol_level1",
@@ -296,13 +296,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40386,
+		"ips": 40347,
 		"common": 78
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 160200,
+		"ips": 159944,
 		"common": 22
 	},
 	{
@@ -315,7 +315,7 @@
 		"name": "firehol_proxies",
 		"category": "anonymizers",
 		"ips": 34309,
-		"common": 3844
+		"common": 3843
 	},
 	{
 		"name": "firehol_webserver",
@@ -345,7 +345,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 227
+		"common": 228
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -423,7 +423,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 68
+		"common": 67
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -759,7 +759,7 @@
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
 		"ips": 19893,
-		"common": 199
+		"common": 198
 	},
 	{
 		"name": "socks_proxy_7d",
@@ -770,7 +770,7 @@
 	{
 		"name": "sorbs_anonymizers",
 		"category": "spam",
-		"ips": 607027,
+		"ips": 607028,
 		"common": 209
 	},
 	{
@@ -782,7 +782,7 @@
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 92245,
+		"ips": 92695,
 		"common": 43
 	},
 	{
@@ -794,7 +794,7 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 1800230,
+		"ips": 1800714,
 		"common": 229
 	},
 	{
@@ -807,7 +807,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 1873
+		"common": 1871
 	},
 	{
 		"name": "spamhaus_edrop",
@@ -830,8 +830,8 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1048,
-		"common": 1048
+		"ips": 1049,
+		"common": 1049
 	},
 	{
 		"name": "stopforumspam",
