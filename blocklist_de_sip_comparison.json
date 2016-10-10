@@ -15,7 +15,7 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 12951,
-		"common": 19
+		"common": 18
 	},
 	{
 		"name": "bi_any_2_7d",
@@ -33,19 +33,19 @@
 		"name": "bi_voip_2_30d",
 		"category": "attacks",
 		"ips": 206,
-		"common": 18
+		"common": 17
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 29458,
-		"common": 75
+		"common": 76
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13706,
-		"common": 3
+		"ips": 13666,
+		"common": 4
 	},
 	{
 		"name": "ciarmy",
@@ -54,39 +54,51 @@
 		"common": 4
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 2959,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 7467,
+		"ips": 7236,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 121478,
+		"ips": 121396,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 21055,
+		"ips": 21035,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5217,
+		"ips": 5188,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 134751,
+		"ips": 134688,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 12365,
+		"ips": 12347,
 		"common": 1
 	},
 	{
@@ -158,20 +170,20 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12094,
+		"ips": 11863,
 		"common": 1
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 271637,
+		"ips": 271550,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 40490,
-		"common": 75
+		"common": 76
 	},
 	{
 		"name": "firehol_level3",
@@ -182,8 +194,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587571,
-		"common": 13
+		"ips": 9587533,
+		"common": 14
 	},
 	{
 		"name": "firehol_webserver",
@@ -201,7 +213,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 1819,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "haley_ssh",
@@ -351,7 +363,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "stopforumspam",
@@ -399,6 +411,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 19809,
-		"common": 46
+		"common": 45
 	}
 ]
