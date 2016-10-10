@@ -44,8 +44,8 @@
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
-		"ips": 5398,
-		"common": 29
+		"ips": 5421,
+		"common": 28
 	},
 	{
 		"name": "bi_ftp_2_30d",
@@ -164,7 +164,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13609,
+		"ips": 13706,
 		"common": 24
 	},
 	{
@@ -590,7 +590,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47212,
+		"ips": 47215,
 		"common": 2482
 	},
 	{
@@ -614,13 +614,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587477,
+		"ips": 9587571,
 		"common": 512
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34307,
+		"ips": 34310,
 		"common": 2486
 	},
 	{
@@ -705,7 +705,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 1720
+		"common": 1721
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -945,7 +945,7 @@
 		"name": "nixspam",
 		"category": "spam",
 		"ips": 35370,
-		"common": 85
+		"common": 86
 	},
 	{
 		"name": "nullsecure",
@@ -1299,25 +1299,25 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 3
+		"common": 7
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2569,
+		"ips": 2573,
 		"common": 120
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 19858,
+		"ips": 19861,
 		"common": 558
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 7252,
-		"common": 260
+		"ips": 7251,
+		"common": 259
 	},
 	{
 		"name": "sorbs_dul",
@@ -1334,8 +1334,8 @@
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 91557,
-		"common": 242
+		"ips": 91389,
+		"common": 247
 	},
 	{
 		"name": "sorbs_noserver",
@@ -1346,8 +1346,8 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 1798989,
-		"common": 2269
+		"ips": 1799400,
+		"common": 2270
 	},
 	{
 		"name": "sorbs_smtp",
@@ -1358,7 +1358,7 @@
 	{
 		"name": "sorbs_web",
 		"category": "spam",
-		"ips": 6204166,
+		"ips": 6204167,
 		"common": 11114
 	},
 	{
@@ -1371,7 +1371,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 147455
+		"common": 147457
 	},
 	{
 		"name": "sp_atma",
