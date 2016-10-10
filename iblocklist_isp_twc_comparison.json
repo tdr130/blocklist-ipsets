@@ -56,13 +56,13 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4190,
+		"ips": 4183,
 		"common": 38
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5516,
+		"ips": 5514,
 		"common": 55
 	},
 	{
@@ -74,37 +74,37 @@
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 9622,
+		"ips": 9626,
 		"common": 107
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29325,
-		"common": 29
+		"ips": 29246,
+		"common": 30
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9398,
+		"ips": 9395,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1122,
+		"ips": 1125,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18858,
-		"common": 24
+		"ips": 18754,
+		"common": 25
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 5716,
+		"ips": 5759,
 		"common": 4
 	},
 	{
@@ -416,7 +416,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47227,
+		"ips": 47232,
 		"common": 126
 	},
 	{
@@ -428,8 +428,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40341,
-		"common": 29
+		"ips": 40264,
+		"common": 30
 	},
 	{
 		"name": "firehol_level3",
@@ -446,7 +446,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34316,
+		"ips": 34321,
 		"common": 104
 	},
 	{
@@ -768,21 +768,27 @@
 		"common": 15
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2501,
+		"ips": 2509,
 		"common": 22
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 19903,
+		"ips": 19911,
 		"common": 92
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 7247,
+		"ips": 7234,
 		"common": 50
 	},
 	{
@@ -854,7 +860,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3850,
+		"ips": 3852,
 		"common": 1
 	},
 	{
