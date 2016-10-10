@@ -27,19 +27,19 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 12951,
-		"common": 357
+		"common": 358
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 5437,
-		"common": 394
+		"common": 395
 	},
 	{
 		"name": "bi_ftp_2_30d",
 		"category": "attacks",
 		"ips": 717,
-		"common": 357
+		"common": 358
 	},
 	{
 		"name": "bi_ssh_2_30d",
@@ -51,7 +51,7 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 29101,
-		"common": 1721
+		"common": 1729
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -138,6 +138,30 @@
 		"common": 1
 	},
 	{
+		"name": "esentire_crazyerror_su",
+		"category": "malware",
+		"ips": 18613,
+		"common": 1
+	},
+	{
+		"name": "esentire_dorttlokolrt_com",
+		"category": "malware",
+		"ips": 23664,
+		"common": 1
+	},
+	{
+		"name": "esentire_emptyarray_ru",
+		"category": "malware",
+		"ips": 20139,
+		"common": 1
+	},
+	{
+		"name": "esentire_maddox1_ru",
+		"category": "malware",
+		"ips": 11345,
+		"common": 1
+	},
+	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
 		"ips": 11587,
@@ -159,7 +183,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 40120,
-		"common": 1721
+		"common": 1729
 	},
 	{
 		"name": "firehol_level3",
@@ -357,7 +381,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373088326,
-		"common": 298
+		"common": 299
 	},
 	{
 		"name": "sorbs_new_spam",
