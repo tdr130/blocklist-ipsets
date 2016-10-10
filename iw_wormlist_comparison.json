@@ -2,25 +2,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29509,
+		"ips": 29390,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 19068,
+		"ips": 18940,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40520,
+		"ips": 40401,
 		"common": 1
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587431,
+		"ips": 9587427,
 		"common": 3
 	},
 	{
@@ -34,5 +34,11 @@
 		"category": "spam",
 		"ips": 5904,
 		"common": 2
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 34883,
+		"common": 1
 	}
 ]

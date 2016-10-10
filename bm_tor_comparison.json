@@ -122,25 +122,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29509,
+		"ips": 29390,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9420,
+		"ips": 9406,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 19068,
+		"ips": 18940,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13548,
+		"ips": 13544,
 		"common": 102
 	},
 	{
@@ -452,19 +452,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40520,
+		"ips": 40401,
 		"common": 8
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 160497,
+		"ips": 160522,
 		"common": 988
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587431,
+		"ips": 9587427,
 		"common": 460
 	},
 	{
@@ -722,7 +722,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 34896,
+		"ips": 34883,
 		"common": 4
 	},
 	{
@@ -846,21 +846,27 @@
 		"common": 1
 	},
 	{
+		"name": "proxylists",
+		"category": "anonymizers",
+		"ips": 888,
+		"common": 1
+	},
+	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2352,
-		"common": 1
+		"ips": 2367,
+		"common": 2
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 8757,
+		"ips": 8773,
 		"common": 3
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 4487,
+		"ips": 4498,
 		"common": 2
 	},
 	{
@@ -888,22 +894,28 @@
 		"common": 3
 	},
 	{
+		"name": "proxz",
+		"category": "anonymizers",
+		"ips": 25,
+		"common": 1
+	},
+	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
 		"ips": 247,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2553,
-		"common": 2
+		"ips": 2557,
+		"common": 3
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 968,
-		"common": 1
+		"ips": 964,
+		"common": 2
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -914,7 +926,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 2595,
+		"ips": 2596,
 		"common": 1
 	},
 	{
@@ -1112,7 +1124,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 44124,
+		"ips": 44024,
 		"common": 958
 	},
 	{
