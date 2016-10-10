@@ -128,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13970,
+		"ips": 13955,
 		"common": 5
 	},
 	{
@@ -180,21 +180,27 @@
 		"common": 2
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 55,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 800,
+		"ips": 825,
 		"common": 1
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16436,
+		"ips": 16439,
 		"common": 1
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4580,
+		"ips": 4585,
 		"common": 1
 	},
 	{
@@ -374,7 +380,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11573,
+		"ips": 11582,
 		"common": 2
 	},
 	{
@@ -392,19 +398,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40025,
+		"ips": 40026,
 		"common": 6
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 158606,
+		"ips": 158643,
 		"common": 17
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587831,
+		"ips": 9587819,
 		"common": 125
 	},
 	{
@@ -698,8 +704,8 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 2596,
-		"common": 45
+		"ips": 2593,
+		"common": 44
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -806,7 +812,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 43781,
+		"ips": 43704,
 		"common": 5
 	},
 	{
