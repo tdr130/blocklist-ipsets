@@ -15,12 +15,12 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 285,
-		"common": 12
+		"common": 13
 	},
 	{
 		"name": "bambenek_suppobox",
 		"category": "malware",
-		"ips": 82,
+		"ips": 55,
 		"common": 1
 	},
 	{
@@ -66,6 +66,12 @@
 		"common": 6
 	},
 	{
+		"name": "cleanmx_phishing",
+		"category": "spam",
+		"ips": 4519,
+		"common": 1
+	},
+	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
 		"ips": 12190,
@@ -75,19 +81,19 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 663819580,
-		"common": 12
+		"common": 13
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587773,
+		"ips": 9587763,
 		"common": 3
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50939624,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "hphosts_ats",
@@ -105,7 +111,7 @@
 		"name": "hphosts_exp",
 		"category": "malware",
 		"ips": 303,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "hphosts_fsa",
@@ -189,7 +195,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "malwaredomainlist",
@@ -225,7 +231,7 @@
 		"name": "threatcrowd",
 		"category": "malware",
 		"ips": 2594,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "yoyo_adservers",
