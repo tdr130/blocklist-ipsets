@@ -50,8 +50,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1692,
-		"common": 1108
+		"ips": 1695,
+		"common": 1104
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -140,7 +140,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13580,
+		"ips": 13550,
 		"common": 164
 	},
 	{
@@ -192,21 +192,27 @@
 		"common": 92
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 31,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 763,
-		"common": 22
+		"ips": 772,
+		"common": 23
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16459,
+		"ips": 16463,
 		"common": 124
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4621,
+		"ips": 4619,
 		"common": 71
 	},
 	{
@@ -344,7 +350,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6924,
+		"ips": 6915,
 		"common": 92
 	},
 	{
@@ -434,7 +440,7 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 859,
+		"ips": 858,
 		"common": 205
 	},
 	{
@@ -476,7 +482,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11741,
+		"ips": 11746,
 		"common": 87
 	},
 	{
@@ -488,7 +494,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47146,
+		"ips": 47220,
 		"common": 103
 	},
 	{
@@ -500,25 +506,25 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40523,
-		"common": 2116
+		"ips": 40518,
+		"common": 2117
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 160498,
+		"ips": 160497,
 		"common": 2697
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587459,
+		"ips": 9587433,
 		"common": 1698
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34316,
+		"ips": 34325,
 		"common": 86
 	},
 	{
@@ -548,8 +554,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1804,
-		"common": 69
+		"ips": 1796,
+		"common": 70
 	},
 	{
 		"name": "haley_ssh",
@@ -854,8 +860,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 34977,
-		"common": 9
+		"ips": 34896,
+		"common": 8
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1082,7 +1088,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 19882,
+		"ips": 19888,
 		"common": 1
 	},
 	{
@@ -1166,13 +1172,13 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3867,
+		"ips": 3870,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1029,
+		"ips": 1035,
 		"common": 1
 	},
 	{
